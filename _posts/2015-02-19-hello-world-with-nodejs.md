@@ -50,3 +50,7 @@ if everything is fine then you see see the below when you type [http://127.0.0.1
 
 ![Node output! Alert box]({{ site.url }}/assets/node-output.png "Node output browser!")
 
+Congratulation! you have a working Node js Hello World app.
+
+Details about the app will be explained in next blog. so stay tuned.
+
