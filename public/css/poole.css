@@ -278,21 +278,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-.date {
-    border-left: 10px solid #a1a1a1;
-    border-right: 10px solid #a1a1a1;
-    padding-left: 10px;
-    font-weight: bold;
-    font-size: 8pt;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    text-transform: uppercase;
-    border-top: 1px solid #a1a1a1;
-    border-bottom: 1px solid #a1a1a1;
-    color: gray;
-}
-
-
 
 /*
  * Container
