@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hello World!
+title: Know Your Code!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 
-#Know Your Code
+#Posts
 
 <ul class="posts">
   {% for post in site.posts %}
