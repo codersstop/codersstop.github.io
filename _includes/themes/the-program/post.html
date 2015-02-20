@@ -36,9 +36,27 @@
 				<div class="misc-content">
 					<div class="social">
 						<ul class="list-linear">
-							<li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="{{ site.author.twitter }}" data-lang="en">Tweet</a></div></li>
 							<li><div class="twitter-follow"><a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
-						</ul>
+                            <!-- Place this tag where you want the widget to render. -->
+                            <li><div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/u/0/102288050821681391977" data-rel="author"></div></li>
+
+                            <!-- Place this tag after the last widget tag. -->
+                            <script type="text/javascript">
+                                (function() {
+                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                    po.src = 'https://apis.google.com/js/platform.js';
+                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                })();
+                            </script>
+							<li><div class="fb-like" data-href="https://www.facebook.com/pages/Codersstop/1628710950682407" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></li>
+							<li>
+                                <iframe src="http://ghbtns.com/github-btn.html?user=codersstop&repo=Feedback&count=true&type=follow"
+                                        allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
+							</li>
+                            <li>
+                                <a href="http://news.ycombinator.com/submitlink?u=http://codersstop.github.com{{ page.url }}&amp;t={{ page.title }}" target="_blank" style="margin-bottom: 0.3em !important;"><img src="/assets/y.gif" style="margin-bottom: 0.3em !important;" title="Submit {{ page.title }} to Hacker News"></a>
+                            </li>
+                        </ul>
 					</div>
 					<div class="comment">
 					{% include JB/comments %}
