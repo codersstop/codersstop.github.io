@@ -557,18 +557,18 @@ html {
   background-color: #fafafa;
 }
 /* LINK */
-a:link {
-  color: #2d2d2d;
-  text-decoration: none;
-}
-a:visited {
-  color: #141414;
-  text-decoration: none;
-}
-a:hover {
-  color: #474747;
-  text-decoration: none;
-}
+/*a:link {*/
+  /*color: #2d2d2d;*/
+  /*text-decoration: none;*/
+/*}*/
+/*a:visited {*/
+  /*color: #141414;*/
+  /*text-decoration: none;*/
+/*}*/
+/*a:hover {*/
+  /*color: #474747;*/
+  /*text-decoration: none;*/
+/*}*/
 /* HIGHLIGHTER */
 pre {
   margin-bottom: 1.625em;
