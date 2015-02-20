@@ -20,6 +20,7 @@ There are following data types available in JS (type tells you what kind of info
 Programming is nothing but a mean to represent real world in the virtual world so that we can automate stuff. When we talk about JS objects,
 just think of a real world object, for an example the **_Laptop_** in front of you:
 
+<p><img src="/assets/js-object-laptop.png" style="width:70%;" /></p>
 
 This laptop has properties like color and brand, and methods like start and shutdown. Properties of an object tells us what kind of object we're dealing with, basically the state of the object. Methods of an object are used to manipulate the properties of an object i.e. dealing with the state of the object.
 
