@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 
-#Posts
+#Know Your Code
 
 <ul class="posts">
   {% for post in site.posts %}
