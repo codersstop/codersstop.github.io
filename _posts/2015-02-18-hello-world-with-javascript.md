@@ -57,4 +57,4 @@ Your file should look as below:
 
 Now just refresh the page in the browser and Voila you should see 'Hello, World!' as below:
 
-![Hello, World! Alert box]({{ site.url }}/assets/hello-world-alert.png "Hello, World!")
+{% img /assets/hello-world-alert.png 1000x600 %}
