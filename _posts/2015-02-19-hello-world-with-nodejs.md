@@ -34,7 +34,6 @@ Now download this Node.js [Hello world]({{ site.url }}/assets/Hello-world.zip "H
 
 You should see two files in the unzipped folder as below.
 
-{% img /assets/hello-world-files.png 100x15 %}
 
 Don't worry about the details in the files, we will tell you what these files are and what each file contains. For now we will just focus on running the application.
 
@@ -46,11 +45,9 @@ $ node server.js
 
 And you should see the following output
 
-{% img /assets/node-run.png 80x40%}
 
 If everything is fine then you would see following output  when you go to [http://127.0.0.1:1337/] in the browser.
 
-{% img /assets/node-output.png 80x50 %}
 
 Congratulations! you have a working Node.js Hello World app.
 

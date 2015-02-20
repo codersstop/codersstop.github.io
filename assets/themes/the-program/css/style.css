@@ -401,7 +401,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: consolas, monaco, monospace;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
   line-height: 1.625em;
 }
@@ -418,7 +418,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: UbuntuMono-B, consolas, monaco, monospace;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1,
 .h1 {
@@ -557,18 +557,18 @@ html {
   background-color: #fafafa;
 }
 /* LINK */
-a:link {
-  color: #2d2d2d;
-  text-decoration: none;
-}
-a:visited {
-  color: #141414;
-  text-decoration: none;
-}
-a:hover {
-  color: #474747;
-  text-decoration: none;
-}
+/*a:link {*/
+  /*color: #2d2d2d;*/
+  /*text-decoration: none;*/
+/*}*/
+/*a:visited {*/
+  /*color: #141414;*/
+  /*text-decoration: none;*/
+/*}*/
+/*a:hover {*/
+  /*color: #474747;*/
+  /*text-decoration: none;*/
+/*}*/
 /* HIGHLIGHTER */
 pre {
   margin-bottom: 1.625em;
@@ -590,7 +590,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: UbuntuMono-B, consolas, monaco, monospace;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
 .the-header .logo a:visited {
@@ -655,15 +655,15 @@ pre {
 .unit-article .entry-content:first-child h6 {
   margin-top: 0;
 }
-.unit-article a:link {
-  border-bottom: 1px dashed #c26164;
-}
-.unit-article a:visited {
-  border-bottom: 1px dashed #ad4346;
-}
-.unit-article a:hover {
-  border-bottom: 1px dashed #d08688;
-}
+/*.unit-article a:link {*/
+  /*border-bottom: 1px dashed #c26164;*/
+/*}*/
+/*.unit-article a:visited {*/
+  /*border-bottom: 1px dashed #ad4346;*/
+/*}*/
+/*.unit-article a:hover {*/
+  /*border-bottom: 1px dashed #d08688;*/
+/*}*/
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
   padding-left: 1em;
