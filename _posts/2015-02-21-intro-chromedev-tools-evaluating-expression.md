@@ -24,7 +24,7 @@ Console tab is editable and you can type out your code there. Let's declare to i
 
 <p><img src="/assets/console-tab-adding-two-variables.png" style="width:80%;display: -webkit-inline-box;" /></p>
 
-Well, that wasn't a rocket science so let's do something more exciting. We'll declare a [JavaScript Object](/javascript/2015-02-20-javascript-objects) and access its
+Well, that wasn't a rocket science so let's do something more exciting. We'll declare a [JavaScript Object](/javascript/2015/02/20/javascript-objects/) and access its
 attributes and method to get some information.
 
 Type out following code (Use **Shift + Enter** for the next line, pressing just **Enter** would evaluate the expression:)
