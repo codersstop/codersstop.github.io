@@ -55,10 +55,10 @@ laptop.getDiscountedPrice() // "$350"
 
 You must observe expressions being evaluated as below:
 
-<p><img src="/assets/evaluate-js-objects-console-tab.png" style="width:80%;display: -webkit-inline-box;" /></p>
+<p><img src="/assets/evaluate-js-objects-console-tab.png" style="width:90%;display: -webkit-inline-box;" /></p>
 
 So we're done with the basic introduction of Chrome DevTools Console Tab.
 Read here about how to select HTML elements and manipulate them in this article.
 
-Read more : [Using the console](https://developer.chrome.com/devtools/docs/console)
+Read more : [Using the console](https://developer.chrome.com/devtools/docs/console){:target="_blank"}
 
