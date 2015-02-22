@@ -16,7 +16,7 @@ To open the console tab, do one of the following:
 
 <p><img src="/assets/console-tab.png" style="width:80%;display: -webkit-inline-box;" /></p>
 
-Our motive to here is to get you familiar with Console tab and how to evaluate expressions with it.
+Our motive here is to get you familiar with Console tab and how to evaluate expressions with it.
 
 ###Evaluating expressions in Console Tab
 
