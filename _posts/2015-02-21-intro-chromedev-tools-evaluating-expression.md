@@ -14,7 +14,7 @@ To open the console tab, do one of the following:
  - Use the keyboard shortcut **Command - Option - J** (Mac) or **Control - Shift - J** (Windows/Linux)
  - Select **View > Developer > JavaScript Console**
 
-<p><img src="/assets/console-tab.png" style="width:80%;display: -webkit-inline-box;" /></p>
+<p><img src="/assets/console-tab.png" style="width:75%;display: -webkit-inline-box;" /></p>
 
 Our motive here is to get you familiar with Console tab and how to evaluate expressions with it.
 
@@ -22,7 +22,7 @@ Our motive here is to get you familiar with Console tab and how to evaluate expr
 
 Console tab is editable and you can type out your code there. Let's declare to integer variables and get their sum:
 
-<p><img src="/assets/console-tab-adding-two-variables.png" style="width:80%;display: -webkit-inline-box;" /></p>
+<p><img src="/assets/console-tab-adding-two-variables.png" style="width:75%;display: -webkit-inline-box;" /></p>
 
 Well, that wasn't a rocket science so let's do something more exciting. We'll declare a [JavaScript Object](/javascript/2015/02/20/javascript-objects/) and access its
 attributes and method to get some information.
@@ -55,7 +55,7 @@ laptop.getDiscountedPrice() // "$350"
 
 You must observe expressions being evaluated as below:
 
-<p><img src="/assets/evaluate-js-objects-console-tab.png" style="width:90%;display: -webkit-inline-box;" /></p>
+<p><img src="/assets/evaluate-js-objects-console-tab.png" style="width:75%;display: -webkit-inline-box;" /></p>
 
 So we're done with the basic introduction of Chrome DevTools Console Tab.
 Read here about how to select HTML elements and manipulate them in this article.
